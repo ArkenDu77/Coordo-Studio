@@ -1,0 +1,6 @@
+streamlit>=1.42
+openai>=1.68
+lxml>=5.3
+python-dotenv>=1.0
+rapidfuzz>=3.10
+pydantic>=2.10
